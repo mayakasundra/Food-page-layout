@@ -1,0 +1,48 @@
+@media screen and (max-width: 479px) {
+  .navbar.navbar-expand-lg {
+    top: 0px;
+  }
+  h1 {
+    font-size: 20px;
+  }
+  .features-icon {
+    padding: 2px;
+  }
+  .carousel-item p {
+    font-size: 16px;
+    margin: 1px 0px;
+  }
+
+  .carousel-item h3 {
+    padding: 1px 9px;
+    color: white;
+    font-size: 16px;
+  }
+
+  a.btn.main-btn {
+    padding: 2px 11px;
+    background-color: #60cd12;
+    font-weight: 600;
+  }
+  .about-content {
+    line-height: 24px;
+  }
+  .seller-img {
+    margin: 0px 25px;
+  }
+
+  .features-box {
+    padding: 27px 0px;
+    margin: 16px 0px;
+  }
+  
+}
+
+@media screen and (max-width: 991px) {
+  .seller-img {
+    margin: 15px 0px;
+  }
+}
+.about {
+  background-position-x: 50%;
+}
